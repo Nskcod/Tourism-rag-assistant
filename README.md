@@ -31,7 +31,7 @@ Prerequisites
 
 Clone the Repository
 
-git clone https://github.com/your-username/tourism-rag-assistant.git
+git clone https://github.com/Nskcod/rag-assistant.git
 cd tourism-rag-assistant
 
 Backend Setup
